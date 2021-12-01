@@ -35,5 +35,6 @@ mvn site
 ![alt text](https://github.com/melvingnz/Calculator_CI_DevOps/blob/57c34eb9913d1ecd02109082a0d5bfb2b49743b1/Create%20an%20automated%20pipeline%20using%20Jenkins.png)
 
 11. Creating an automated Pipeline for our project using Jenkins
+![alt text]https://github.com/melvingnz/Calculator_CI_DevOps/blob/0ceafc45c14a7b78d1d95c939191555dc06931eb/Creating%20an%20automated%20Pipeline%20for%20our%20project%20using%20Jenkins.png)
 
 12. Deploy the build artifacts to Nexus repository via Jenkins
