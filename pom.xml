@@ -72,7 +72,7 @@
       </plugins>
     </pluginManagement>
   </build>
-  <distributionManagement>
+   <distributionManagement>
   <snapshotRepository>
     <id>Calculator_CI_DevOps</id>
     <name>Calculator_CI_DevOps</name>
