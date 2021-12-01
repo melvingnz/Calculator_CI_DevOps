@@ -26,7 +26,8 @@ mvn site
 3. Host the project on GitHub
 
 4. Create an automated pipeline using Jenkins
-https://github.com/melvingnz/Calculator_CI_DevOps/blob/57c34eb9913d1ecd02109082a0d5bfb2b49743b1/Create%20an%20automated%20pipeline%20using%20Jenkins.png
+![alt text](https://github.com/melvingnz/Calculator_CI_DevOps/blob/57c34eb9913d1ecd02109082a0d5bfb2b49743b1/Create%20an%20automated%20pipeline%20using%20Jenkins.png)
+
 5. Creating an automated Pipeline for our project using Jenkins
 
 6. Deploy the build artifacts to Nexus repository via Jenkins
