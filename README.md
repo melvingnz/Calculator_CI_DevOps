@@ -13,20 +13,25 @@
 2. Configure the project in Apache Maven
  
 3. Create an Apache Maven project hierarchy using following command on the command line:
+
 mvn archetype:generate -DgroupId=Calculator -DartifactId=Calculator_CI_DevOps -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
 
 4. Copy our java code in the Maven hierarchy
 
 5. Clean the project hierarchy using Maven on command line:
+
 mvn clean
 
 6. Compile the java source code:
+
 mvn compile
 
 7. Create a build of the project using Install goal:
+
 mvn install
 
 8. Maven Site goal:
+
 mvn site
 
 9. Host the project on GitHub
