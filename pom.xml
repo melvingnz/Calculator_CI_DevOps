@@ -72,12 +72,11 @@
       </plugins>
     </pluginManagement>
   </build>
-   <distributionManagement>
-    <repository>
-        <id>Calculator_CI_DevOps</id>
-        <name>Calculator_CI_DevOps</name>
-        <url>ttp://localhost:8081/repository/Calculator_CI_DevOps/</url>
-        <layout>default</layout>
-    </repository>
+    <distributionManagement>
+  <snapshotRepository>
+    <id>Calculator_CI_DevOps</id>
+    <name>Calculator_CI_DevOps</name>
+    <url>http://localhost:8081/repository/Calculator_CI_DevOps/</url>
+  </snapshotRepository>
 </distributionManagement>
 </project>
